@@ -1,8 +1,10 @@
-# Dart & Flutter
+# Dart & Flutter / React Native(expo)
 
-프론트엔드 Flutter & Dart언어 학습을 기록한 공간입니다.
+프로젝트를 위한 Flutter & Dart언어 학습을 기록한 공간입니다.
 
-노마드코더 강의를 수강했습니다.
+놔마드코더 강의를 수강했습니다.
+
+스택 변경 -> 실전 React Native 활용을 기록한 공간입니다.
 
 ## [Dart]
 
@@ -24,24 +26,12 @@
 ***
 
 # 기술 스택
-Dart / Flutter
-
-
-
-
-
-
-
-***
+React Native (expo)
 
 # 실행
 
-
-
-
-
-
-***
+vsCode에서 코드를 작성하고 expo go를 활용하여 화면을 구성하였습니다.
 
 # 실행 결과
+
 
