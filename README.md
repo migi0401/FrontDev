@@ -45,4 +45,15 @@ vsCode에서 코드를 작성하고 expo go를 활용하여 화면을 구성하�
 <img src="./KakaoTalk_20260106_140555049_01.png" width="100px">
 
 
+UI 개선: 만보기 기능을 단순 숫자로 표시하고
+        쿠폰 화면을 가로 형태의 페이지네이션으로 구현하였습니다. 
 
+
+<video src="./Final_video.mp4" width="300px" controls></video>
+
+
+# 빌드
+
+expo에서 eas를 사용하여 APK파일을 생성하는 방식으로 빌드하였습니다.
+
+<img width="500" height="500" alt="image" src="./안드로이드 빌드 파일.png" />
