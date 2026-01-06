@@ -41,8 +41,8 @@ vsCode에서 코드를 작성하고 expo go를 활용하여 화면을 구성하�
 초기 UI 구성: 중첩 네비게이터를 사용하여 탭 네비게이터와 스택 네비게이터를 동시에 사용했습니다.
              만보기 기능을 구현하기 위해 프로그레스 바를 구현하여 넣었습니다.
 
-![poster](./KakaoTalk_20260106_140555049.png)
-![poster](./KakaoTalk_20260106_140555049_01.png)
+<img src="./KakaoTalk_20260106_140555049.png", height="100x", width="100px">
+<img src="./KakaoTalk_20260106_140555049_01.png", height="100x", width="100px">
 
 
 
